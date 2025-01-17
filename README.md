@@ -13,12 +13,3 @@ Extracting information from images (e.g., detecting or counting objects)
 Object tracking in video sequences
 Applying these techniques to real-world computer vision applications (e.g., face recognition, security systems, medical imaging, robotics)
 
-/DeepVisionAnalytics
-├── /data                    # Sample datasets used for training and testing
-├── /docs                    # Documentation and notes for reference
-├── /images                  # Sample images used in exercises
-├── /notebooks               # Jupyter notebooks for interactive exploration
-├── /src                     # Source code for various algorithms and techniques
-├── /tests                   # Unit tests for validation of the code
-├── /projects                # Final project and related code
-└── README.md                # Project overview and instructions
