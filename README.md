@@ -1,5 +1,6 @@
 # DeepVisionAnalytics
 
+CVI620 (Computer Vision) 
 A Computer Vision Exploration
 
 Welcome to the DeepVisionAnalytics repository! This project is part of a focused learning fundamental concepts in Deep learning and Image processing through hands-on coding and experimentation. The repository contains various examples, exercises, and a final project that demonstrates computer vision applications such as face recognition, object tracking, medical imaging, and more.
